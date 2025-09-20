@@ -34,11 +34,10 @@ project-2-ai-shapes/
 │           └── com/
 │               └── csc205/
 │                   └── project2/
-│                       ├── shapes/
-│                       │   ├── SphereTest.java
-│                       │   ├── CubeTest.java
-│                       │   └── [etc...]
-│                       └── ShapeTestSuite.java
+│                       └── shapes/
+│                           ├── SphereTest.java
+│                           ├── CubeTest.java
+│                           └── [etc...]
 ├── docs/
 │   ├── AI_INTERACTION_LOG.md
 │   └── REFLECTION.md
