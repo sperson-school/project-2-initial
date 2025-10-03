@@ -1670,3 +1670,4 @@ For the test classes, all I did was put the exact prompt it gave me earlier and 
 
 ## Driver CLass:
 
+For the driver class, I had decided to make a GUI. I used the agent mode with the copilot plugin to make this, which was interesting. I did a lot of back and forth with it while it fixed things, and added features. There were too many messages so it would have been impractical to copy them all here. 

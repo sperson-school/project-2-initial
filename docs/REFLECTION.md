@@ -1,3 +1,11 @@
 # Reflections Log
 
-This document serves as a log of reflections on various topics, capturing insights, lessons learned, and personal growth. It is intended to help users track their thoughts and experiences over time.
+This project was a fun project to work on. It was fun to work with the AI tools to figure out how to put together this relatively simple project. It definitely shows the power of it when you are working with the right amount of context. I can see where it goes awry when you don't give it enough to work with. I found that using the old prompts from project 1 worked well to guide the creation of the prompts for project 2. Giving the AI incremental sets of information to work with while having the correct context sets it up for success. It is definitely important to make sure you work through the outputs it gives you so that you understand what is happening, and you don't miss some crazy mistake you get with the AI. In this particular project, I didn't really have any issues with the AI because I think it had ample information and the structure of the project worked well for AI's strengths.
+
+I enjoyed working with the "agent mode" in the copilot plugin. It was cool how it could plug directly in to the codebase and make changes with your approval. This was great for working with the driver class because I was able to ask it to add features and fix problems that I saw while I was running the program. It was pretty impressive how it could understand what I wanted to get done. I ended up going pretty far with it and getting to a point where I didn't fully understand the code anymore. If I took some time I might be able to get there though. It is nice that you can have it give you an overview of anything that it is doing as well. It makes the learning experience both fun and fluid.
+
+The test classes in this case were very straight forward and it had no issues building them.
+
+This leads into how I tested these classes with the math that they contain. I had the AI include some math tests so that it would make sure that all of the formulas were correctly outputting the right solutions. I had tested some of the formulas it had as well by checking on wolfram alpha and verified it wasn't going rogue.
+
+I noticed that the AI was very consistent and thorough with how it generated code. The code was easy to follow, well explained, and worked well.
